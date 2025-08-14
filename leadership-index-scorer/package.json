@@ -1,1 +1,5 @@
-{"name": "leadership-index-scorer", "version": "1.0.0", "type": "module"}
+{
+  "name": "leadership-index-scorer",
+  "version": "1.0.0",
+  "type": "module"
+}
